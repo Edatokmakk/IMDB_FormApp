@@ -1,0 +1,9 @@
+C:\Users\edato\source\repos\LAST\LAST\bin\Debug\LAST.exe.config
+C:\Users\edato\source\repos\LAST\LAST\bin\Debug\LAST.exe
+C:\Users\edato\source\repos\LAST\LAST\bin\Debug\LAST.pdb
+C:\Users\edato\source\repos\LAST\LAST\obj\Debug\LAST.csprojAssemblyReference.cache
+C:\Users\edato\source\repos\LAST\LAST\obj\Debug\LAST.Form1.resources
+C:\Users\edato\source\repos\LAST\LAST\obj\Debug\LAST.Properties.Resources.resources
+C:\Users\edato\source\repos\LAST\LAST\obj\Debug\LAST.csproj.GenerateResource.cache
+C:\Users\edato\source\repos\LAST\LAST\obj\Debug\LAST.exe
+C:\Users\edato\source\repos\LAST\LAST\obj\Debug\LAST.pdb
